@@ -1,0 +1,61 @@
+
+body{
+    background: url('images/fond_jaune.png');
+}
+.centrer{
+	text-align: center;
+}
+
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+    background-color: rgb(255 223 255);
+    border-radius: 5px;
+    margin-top: 150px;
+    margin-bottom: -500px;
+}
+.img{
+	float: right ;
+	margin-right: 10px;
+	position: top;
+	margin-top: -80px;
+	border-radius: 5px;
+}
+section
+{
+    display: flex;
+    margin-bottom: -600px;
+
+}
+
+#dev{
+	flex: 1.2;
+    position: relative;
+    background-color: rgb(255 211 168);
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    float: left;
+    margin-top: -93px;
+    padding-top: 90px;
+    margin-bottom: 1.5px;
+    margin-right: 40px;
+}
+.form{
+	margin-left: 60px;
+}
+.comp{
+	margin-left: 60px;
+}
+h2{
+	font-weight: bold;
+	color: maroon;
+
+}
+#bloc_page p{
+	font-weight: bold;
+}
+.CI{
+    margin-left: 30px;
+}
